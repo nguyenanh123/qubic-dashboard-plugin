@@ -1,2 +1,5 @@
-# qubic-dashboard-plugin
-Tự động theo dõi sự phát triển dự án Qubic từ GitHub
+# Qubic Dashboard Plugin
+
+## Full Documentation
+
+Complete documentation here.
